@@ -1,6 +1,6 @@
 import sys
 
-_IS_PYTHON_3 = (sys.version_info[0] >= '3')
+_IS_PYTHON_3 = (sys.version_info[0] >= 3)
 
 identity = lambda x : x
 
